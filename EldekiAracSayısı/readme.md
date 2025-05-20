@@ -1,4 +1,4 @@
-Görev 4: İstenilen Markanın Model Yılına Göre Eldeki Araç Sayısı
+proje: İstenilen Markanın Model Yılına Göre Eldeki Araç Sayısı
 100%
 Reklamları model yılına göre özelleştirip stokları eritmek için bir çalışma başlatıldı. Eldeki arabaların, istenen markaya göre hangi modelden kaçar tane olduğunu hesaplamak istiyorlar.
 
